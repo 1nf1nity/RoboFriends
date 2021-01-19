@@ -1,4 +1,4 @@
-# RoboFirends
+# RoboFriends
 
 ## Install
 1. clone the repository
