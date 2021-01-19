@@ -1,4 +1,6 @@
-# Install
+# RoboFirends
+
+## Install
 1. clone the repository
 2. cd robofriends
 3. run: npm install
